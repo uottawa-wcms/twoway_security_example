@@ -1,0 +1,7 @@
+name = TwoWay - Security Example
+description = "Security plugin for Two-Way"
+core = 7.x
+package = Development
+
+dependencies[] = twoway
+files[] = TwoWaySecurityExampleProfile.inc

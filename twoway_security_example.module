@@ -1,0 +1,9 @@
+<?php
+
+  /**
+   * Implements hook_twoway_security().
+   */
+  function twoway_security_example_twoway_security() {
+    // return the name of the security class
+    return 'TwoWaySecurityExampleProfile';
+  }
